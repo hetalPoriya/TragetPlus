@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "953017196243",
+    "project_id": "targetplus-ind",
+    "storage_bucket": "targetplus-ind.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953017196243:android:b95244cd60f5ef311cfe26",
+        "android_client_info": {
+          "package_name": "com.traget_plus.traget_plus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953017196243-tg7ep6hl88p219hr9mt9vep0i6kkb7ms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMCWqVKkre_9CmJ5nGyFCZb2T7YWZp41o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953017196243-tg7ep6hl88p219hr9mt9vep0i6kkb7ms.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
